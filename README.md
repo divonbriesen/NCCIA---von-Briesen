@@ -12,3 +12,10 @@ I don't know harry.
 I don't know where Tom went.
 I ate a lot.
 Hey, look, a twix.
+- I survived all the stuff
+- Enjoy the company
+
+<h1>colors</h1>
+<h2>No harry,</h2>
+
+# COLORS!!
